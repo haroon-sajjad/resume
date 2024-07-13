@@ -2,8 +2,8 @@ title: Haroon Sajjad
 logo: ./haroon-sajjad.jpg
 email: haroon.sajjad@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Web Developer & Designer \n
-  WordPress, Laravel, Node, React
+  Full-stack Web Developer & Designer
+  WordPress • Laravel • Node • React
 baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: "https://haroon-sajjad.github.io" # the base hostname & protocol for your site
 github_username: haroon-sajjad
@@ -12,3 +12,12 @@ github_username: haroon-sajjad
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+
+# Social links
+social_links:
+  - name: "GitHub"
+    url: "https://haroon-sajjad.github.io"
+    icon: "fab fa-github"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/haroonsajjad"
+    icon: "fab fa-linkedin"
