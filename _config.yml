@@ -1,5 +1,5 @@
 title: Haroon Sajjad
-logo: ./haroon-sajjad.jpg
+logo: ./assets/haroon-sajjad.jpg
 email: haroon.sajjad@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Full-stack Web Developer & Designer
@@ -21,3 +21,10 @@ social_links:
   - name: "LinkedIn"
     url: "https://www.linkedin.com/in/haroonsajjad"
     icon: "fab fa-linkedin"
+
+# Download button
+download_button:
+  - text: "Download PDF Resume"
+    url: "./assets/Haroon Sajjad - Resume.pdf"
+  - text: "Download DOCX Resume"
+    url: "./assets/Haroon Sajjad - Resume.docx"
